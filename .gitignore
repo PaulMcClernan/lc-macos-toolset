@@ -3,3 +3,4 @@
 *.lci
 *.xml
 *.lcdoc
+.DS_Store
